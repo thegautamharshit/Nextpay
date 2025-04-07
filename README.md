@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
@@ -82,3 +83,6 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/docs/reference/command-line-reference)
+=======
+# Nextpay
+>>>>>>> a7a29644a0f78cb7a37d05f3d9703b1d1bcef7da
