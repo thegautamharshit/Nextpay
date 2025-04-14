@@ -28,7 +28,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: ./path/to/Dockerfile
+          file: ./docker/Dockerfile.userApp
           push: true
           tags: thegautamharshit/nextpay:latest
 
